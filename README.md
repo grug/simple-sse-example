@@ -2,7 +2,7 @@
 
 This is an example of a simple implementation of [server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events).
 
-The server will send a random number between 1 and 100 every second.
+The server will send a random number between 1 and 100 every second to the client.
 
 ## How to run
 
